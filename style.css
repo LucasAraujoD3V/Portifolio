@@ -23,7 +23,7 @@ body {
 }
 
 .Box {
-  background: #00000000;
+  background: #070606;
   width: var(--Box-width);
   height: var(--Box-height);
   padding: 3px;
